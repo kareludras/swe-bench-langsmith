@@ -5,3 +5,6 @@ pyarrow
 docker
 swebench
 python-dotenv
+transformers
+torch
+openai
